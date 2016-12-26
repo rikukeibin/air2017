@@ -1,5 +1,7 @@
-*** # News * Call for Papers ([PDF](https://github.com/rikukeibin/isair2017/blob/master/ISAIR2017CFP.pdf)) *** 
-The integration of artificial intelligence and robotic technologies has become a topic of increasing interest for both researchers and developers from academic fields and industries worldwide. It is foreseeable that artificial intelligence will be the main approach of the next generation of robotic research. The explosive number of artificial intelligence algorithms and increasing computational power of computers has significantly extended the number of potential applications for robotic technologies. It has also brought new challenges to the artificial intelligence community. The aim of this symposium is to provide a platform for young researchers to share up-to-date scientific achievements in this field. 
+# News 
+* Call for Papers ([PDF](https://github.com/rikukeibin/isair2017/blob/master/ISAIR2017CFP.pdf)) 
+# New homepage [ISAIR2017](https://shinoceanland.com/conference/isair2017/)
+* The integration of artificial intelligence and robotic technologies has become a topic of increasing interest for both researchers and developers from academic fields and industries worldwide. It is foreseeable that artificial intelligence will be the main approach of the next generation of robotic research. The explosive number of artificial intelligence algorithms and increasing computational power of computers has significantly extended the number of potential applications for robotic technologies. It has also brought new challenges to the artificial intelligence community. The aim of this symposium is to provide a platform for young researchers to share up-to-date scientific achievements in this field. 
 **Topics of interest include, but are not limited to:** 
 
 * Audio Multimedia Learning 
