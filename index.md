@@ -51,7 +51,7 @@ Papers must be unpublished and must not be submitted for publication elsewhere. 
 * _ACM/Springer Mobile Networks & Applications_ (SCI, IF=1.538), [Special Issue on Intelligent Industrial IoT Integration with Cognitive Computing](http://www.springer.com/engineering/signals/journal/11036) 
 * _International Journal of Embedded Systems_ (EI), Regular Paper 
 * _International Journal of Computational Science and Engineering_ (ESCI, EI), Regular Paper 
-**Important Dates **
+# Important Dates 
 * Deadline for paper submissions: July 01, 2017 (any time zone) 
 * Notification of paper acceptance: August 01, 2017 
 * Registration of paper acceptance: August 15, 2017 
@@ -62,23 +62,30 @@ Papers must be unpublished and must not be submitted for publication elsewhere. 
 * Over Length Paper: USD$50/page 
 * (Each regular registration includes admission to the technical sessions, welcome reception, award dinner, coffee breaks, exhibits, tutorials, and one copy of the electronic proceedings. The guest registration fee does not include tutorials, welcome reception, award dinner & show, and the electronic proceedings.) 
 # Organizing Committee 
+
 ## Honorary Chairs 
 * Seiichi Serikawa, Kyushu Institute of Technology, Japan 
-* Kuan-Ching Li, Providence University, Taiwan 
+* Kuan-Ching Li, Providence University, Taiwan
+
 ## General Chair 
-* Hyoungseop Kim, Kyushu Institute of Technology, Japan 
+* Hyoungseop Kim, Kyushu Institute of Technology, Japan
+
 ## General Co-Chairs 
 * Huimin Lu, Kyushu Institute of Technology, Japan 
 * Yudong Zhang, Nanjing Normal University, China 
 * Shenglin Mu, National Institute of Technology-Hiroshima, Japan 
 * Joze Guna, University of Ljubljana, Slovenia
+
 ## Program Co-Chairs 
 * Yin Zhang, Zhongnan University of Economics and Law, China 
 * Zongyuan Ge, IBM, Australia 
+
 ## Finance Chair 
 * Yujie Li, Yangzhou University, China 
+
 ## M.Sc./Ph.D. Forum Co-Chairs 
 * Shingo Aramaki, Yamaguchi University, Japan 
+
 ## Program Committee 
 * Jianru Li, Tongji University, China 
 * Dario Lodi Rizzini, Univerity of Parma, Italy 
@@ -97,5 +104,6 @@ Papers must be unpublished and must not be submitted for publication elsewhere. 
 * Li He, Qualcomm, USA 
 * Quan Zhou, Nanjing University of Posts and Telecommunications, China 
 * Guangxu Li, Tianjin Polytechnic University, China 
+
 # Links 
 * [ISAIR2016](https://rikukeibin.github.io/air2016/) 
